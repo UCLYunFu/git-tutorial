@@ -1,5 +1,5 @@
 # GIT tutorial
 
-- feature-A
 
-Test
+- feature-A
+- fix-B
